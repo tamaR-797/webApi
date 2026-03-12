@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\Jewlery.html",
+      "PackagePath": "staticwebassets\\Jewlery.html"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\Login.html",
+      "PackagePath": "staticwebassets\\Login.html"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\User.html",
+      "PackagePath": "staticwebassets\\User.html"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\js\\Jewlery.js",
+      "PackagePath": "staticwebassets\\js\\Jewlery.js"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\js\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\js\\SignalR.js",
+      "PackagePath": "staticwebassets\\js\\SignalR.js"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\js\\Units.js",
+      "PackagePath": "staticwebassets\\js\\Units.js"
+    },
+    {
+      "Id": "C:\\Users\\mbyuser\\Downloads\\webApi-main\\webApi-main\\webApi\\wwwroot\\js\\UserSite.js",
+      "PackagePath": "staticwebassets\\js\\UserSite.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild..net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build..net.props",
+      "PackagePath": "build\\.net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting..net.props",
+      "PackagePath": "buildMultiTargeting\\.net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive..net.props",
+      "PackagePath": "buildTransitive\\.net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
